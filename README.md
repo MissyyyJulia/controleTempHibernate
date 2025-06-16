@@ -6,7 +6,8 @@ A aplicação inicial encontra-se no repositório a seguir: https://github.com/M
 Instruções de execução:
 -------
 NO TERMINAL DO SEU COMPUTADOR - executar o projeto (Após baixar o projeto):
-java -jar nome_projeto.jar
+java -jar caminho_do_arquivo_executavel.jar
+
 
 Ao iniciar o programa, deve-se inserir as temperaturas máxima e mínima do dia. Logo após, deve-se inserir a temperatura atual por hora. É possível inserir 24 temperaturas por dia (uma temperatura a cada uma hora). 
 Se a temperatura estiver acima da máxima ou abaixo da mínima, um aviso é exibido dizendo que a temperatura está fora do esperado para o dia. 
