@@ -8,5 +8,22 @@
 	<name>controleTempPersist</name>
 	<description>Sistema de controle de temperaturas de uma estufa, com
 		persistencia de dados</description>
-	
+
+	<dependencies>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.6.0.Final</version>
+		</dependency>
+
+		<!-- Driver de banco de dados (neste exemplo, estou usando MySQL) -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.28</version>
+		</dependency>
+
+	</dependencies>
+
+
 </project>
