@@ -1,6 +1,8 @@
 # ControleDeTemperatura
 Simulação de controle de temperatura para uma estufa automatizada COM PERSISTENCIA NO BANCO - JPA HIBERNATE 
 
+A aplicação inicial encontra-se no repositório a seguir: https://github.com/MissyyyJulia/ControleDeTemperatura
+
 Instruções de execução:
 -------
 NO TERMINAL DO SEU COMPUTADOR - executar o projeto (Após baixar o projeto):
